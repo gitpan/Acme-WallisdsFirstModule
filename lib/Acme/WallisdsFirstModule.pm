@@ -14,7 +14,7 @@ Version 0.01
 
 =cut
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 
 =head1 SYNOPSIS
@@ -108,4 +108,4 @@ See http://dev.perl.org/licenses/ for more information.
 
 =cut
 
-1 # End of Acme::WallisdsFirstModule
+1; # End of Acme::WallisdsFirstModule
